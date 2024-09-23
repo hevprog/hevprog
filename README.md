@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hevprog
 - 👀 I’m interested in C++/C or Application development like Andriod. 
-- 🌱 I’m currently learning on C++ game library and improving on OOP skills
+- 🌱 I’m currently learning on C++ game library and improving my OOP skills
 - 💞️ I’m looking to collaborate on a Game project for 2024 
 - 📫 How to reach me ... Here!
 - 😄 Pronouns: ... any pronouns that describes a chad.
