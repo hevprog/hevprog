@@ -15,7 +15,7 @@
   <b><br> planning to explore</b><br> <img height = 50 src= https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png></img>
   <p><br>
   <h3>What do you do?<br></h3>
-  I am a newbie programmer!, So I make, not so impressive buggy projects!
+  I am a newbie programmer!, So I make, not so impressive buggy projects!, which why I intend to improve.
   <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif"></img>
   <h6>So feel free to explore some of my best projects in the repository :)</h6>
 </html>
