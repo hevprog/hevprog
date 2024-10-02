@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a Game project for 2024 
 - 📫 How to reach me ... Here!
 - 😄 Pronouns: ... any pronouns that describes a chad.
-- ⚡ Fun fact: ... My first software product is an andriod app.
+- ⚡ Fun fact: ... I want to learn more fun facts
 
 <!---
 hevprog/hevprog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
