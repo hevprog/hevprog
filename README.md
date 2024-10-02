@@ -12,8 +12,7 @@
   <img height = 100 src="https://i.namu.wiki/i/KcqDuQYTxNpUcLIMZTg28QXse0XiWx1G7K68kYYCo1GuhoHmhB_V8Qe9odGGt0BH9-0nQZTN53WXTNpDmwVfWQ.svg"></img>
   <img height = 100 src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/java/java.svg"></img>
   <img height = 100 src ="https://raw.githubusercontent.com/abranhe/programming-languages-logos/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/python/python.svg"></img>
-  <img height = 100 src = "https://fileinfo.com/img/icons/files/256/gd-11376.png"></img>
-  <b><br> planning to explore</b><br> <img height = 100 src= https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png></img>
+  <b><br> planning to explore</b><br> <img height = 50 src= https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png></img>
   <p><br>
   <h3>What do you do?<br></h3>
   I am a newbie programmer!, So I make not so impressive projects and buggy ones
