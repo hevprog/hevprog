@@ -10,7 +10,11 @@
   <p>
   <img height=100 src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></img>
   <img height = 100 src="https://i.namu.wiki/i/KcqDuQYTxNpUcLIMZTg28QXse0XiWx1G7K68kYYCo1GuhoHmhB_V8Qe9odGGt0BH9-0nQZTN53WXTNpDmwVfWQ.svg"></img>
-  <p>
+  <p><br>
+  <h3>What do you do?<br></h3>
+  I am a newbie programmer!, So I make not so impressive projects and buggy ones
+  <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif"></img>
+  <h6>So feel free to explore some of my best projects :)</h6>
 </html>
 <!---
 hevprog/hevprog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
