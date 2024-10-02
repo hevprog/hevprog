@@ -14,7 +14,7 @@
   <h3>What do you do?<br></h3>
   I am a newbie programmer!, So I make not so impressive projects and buggy ones
   <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif"></img>
-  <h6>So feel free to explore some of my best projects :)</h6>
+  <h6>So feel free to explore some of my best projects in the repository :)</h6>
 </html>
 <!---
 hevprog/hevprog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
