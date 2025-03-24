@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @hevprog
 - 👀 I’m interested in C++/C or Application development like Andriod. 
-- 🌱 I’m currently learning on C++ game library and improving my OOP skills
-- 💞️ I’m looking to collaborate on a Game project for 2024 
+- 🌱 I’m currently learning on graphics programming
+- 💞️ I’m looking to collaborate on a Game project for 2024
 - 📫 How to reach me ... Here!
 - 😄 Pronouns: ... any pronouns that describes a chad.
-- ⚡ Fun fact: ... I want to learn more fun facts
-
+- ⚡ Fun fact: ... You're cool!
   <h1>My programming Languages are: </h1>
   <p>
   <img height=100 src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></img>
